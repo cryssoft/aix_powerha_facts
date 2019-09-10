@@ -1,0 +1,9 @@
+{
+  "Gemfile": "0b0ef34a57239868636b26141342423f",
+  "README.md": "39694d97e5dbc87a72b73e0fd8e677f5",
+  "Rakefile": "158b889261acd98356f6e0f2a031b6b9",
+  "lib/facter/aix_powerha.rb": "ac63ddecd028e2206fb781393cb0645e",
+  "metadata.json": "11d8a2fd7c72a93499b965730e36d0c5",
+  "spec/classes/init_spec.rb": "6bd86537494ff5b97f4826a65db36f18",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}
