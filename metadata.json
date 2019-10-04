@@ -4,7 +4,7 @@
   "author": "Chris Petersen, Crystallized Software",
   "summary": "Populate a complex, custom fact with the basics of an IBM PowerHA configuration on AIX.",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/cryssoft/aix_powerha_facts",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
