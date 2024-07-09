@@ -59,6 +59,9 @@ NOTE:  This module has been tested on AIX 6.1, 7.1, and 7.2 with PowerHA System 
 as well as no-PowerHA code installed.  It has not been tested in a multi-site XD environment, and
 the number of test cases and use cases so far has been relatively small.
 
+NOTE:  Updated 2024/07/09 - this module continues to work properly with AIX 7.3 and PowerHA up
+through version/service pack 7.2.8.1.  Adding this update as part of re-publishing the module.
+
 ## Development
 
 Make suggestions.  Look at the code on github.  Send updates or outputs.  I don't have
